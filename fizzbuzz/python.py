@@ -10,7 +10,7 @@ def fizzbuzz(n:int = 15):
     x[4::5] = buzz
     x[14::15] = fizzbuzz
     for i in range(n):
-        print(x[i%15],end = ' ')
+        print(x[i%15] or (i+1),end = ' ')
     print()
 
 if __name__ == '__main__':
