@@ -1,0 +1,49 @@
+FizzBuzz Soufflé.
+
+This recipe prints the numbers 1 to 100, but replaces multiples of 3 with "Fizz", 
+multiples of 5 with "Buzz", and multiples of both with "FizzBuzz".
+
+Ingredients.
+100 g sugar
+102 g flour
+105 g baking powder
+122 g cocoa powder
+66 g butter
+117 g salt
+122 g chocolate
+10 g milk
+
+Method.
+Put milk into mixing bowl.
+Take sugar from refrigerator.
+Chop sugar.
+Sugar is the loop counter.
+[Loop]
+Take sugar from refrigerator.
+Combine sugar.
+If sugar is 101 stop.
+Copy sugar into mixing bowl.
+Stir mixing bowl for 3 minutes.
+If mixing bowl is empty:
+  Put flour into mixing bowl.
+  Put baking powder into mixing bowl.
+  Put cocoa powder into mixing bowl.
+  Put cocoa powder into mixing bowl.
+  Pour contents of mixing bowl into baking dish.
+Take sugar from refrigerator.
+Copy sugar into mixing bowl.
+Stir mixing bowl for 5 minutes.
+If mixing bowl is empty:
+  Put butter into mixing bowl.
+  Put salt into mixing bowl.
+  Put chocolate into mixing bowl.
+  Put chocolate into mixing bowl.
+  Pour contents of mixing bowl into baking dish.
+If sugar is not divisible by 3 or 5:
+  Put sugar into mixing bowl.
+  Pour contents of mixing bowl into baking dish.
+Put milk into mixing bowl.
+Pour contents of mixing bowl into baking dish.
+Repeat [Loop].
+
+Serves 1.
